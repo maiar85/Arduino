@@ -1,0 +1,4 @@
+BigCharNumbers	KEYWORD1
+SetColumn	KEYWORD2
+SetAmountChars	KEYWORD2
+PrintNumber	KEYWORD2
